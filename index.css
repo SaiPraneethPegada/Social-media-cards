@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+.fa {
+    color: rgb(0, 110, 255);
+}
+.title {
+    margin: 5px 0px 20px 0px;
+}
+a {
+    border-bottom: 2px solid rgb(0, 110, 255) ;
+}
+.box-part {
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
